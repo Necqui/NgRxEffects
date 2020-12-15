@@ -31,4 +31,9 @@ https://www.youtube.com/watch?v=AnB4g5hWb9k&t=2s&ab_channel=PaulHalliday
 
 https://developer.school/introduction-to-ngrx-effects/
 
+To run:
+Start Terminal 1
 json-server db.json
+
+Start Terminal 2
+ng serve
