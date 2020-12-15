@@ -1,0 +1,11 @@
+{
+    "shopping": [{
+            "id": 1,
+            "name": "Diet Coke"
+        },
+        {
+            "id": "f90fdef1-ff0a-4e8b-93c0-ebf382fd7868",
+            "name": "Pepsi"
+        }
+    ]
+}
