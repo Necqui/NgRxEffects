@@ -33,8 +33,8 @@ https://developer.school/introduction-to-ngrx-effects/
 
 To run:
 
-Start Terminal 1:
+Start Terminal Session 1:
 json-server db.json
 
-Start Terminal 2:
+Start Terminal Session 2:
 ng serve
